@@ -1,0 +1,17 @@
+porta
+paredes
+telhado
+camara
+castelo
+casa
+muro
+torre
+
+batalha
+bispo
+força
+nome
+rei
+guisa
+mouros
+tempo

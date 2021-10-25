@@ -1,0 +1,17 @@
+rei
+rey
+rainha
+duque
+condes
+condessa
+visconde
+barão
+
+lugar
+ouro
+dinheiro
+carne
+cadeira
+boca
+dia
+mar

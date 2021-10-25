@@ -1,0 +1,17 @@
+altar
+cruz
+igreja
+deus
+capela
+ermida
+bispo
+arcebispo
+
+cavalo
+família
+verdade
+cabeça
+casa
+trigo
+momento
+velha

@@ -1,0 +1,17 @@
+vermelho
+verde
+preto
+branco
+amarelo
+amarelos
+azul
+azuis
+
+vida
+noite
+trigo
+cascas
+voz
+homens
+mulher
+tempo

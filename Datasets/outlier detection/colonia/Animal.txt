@@ -1,0 +1,17 @@
+cavalo
+moscas
+porco
+galinhas
+vaca
+gato
+cão
+macaco
+
+telhado
+lança
+cabellos
+igreja
+porta
+penha
+rua
+olhos

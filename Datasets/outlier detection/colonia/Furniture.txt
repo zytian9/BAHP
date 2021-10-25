@@ -1,0 +1,17 @@
+cadeira
+mesas
+cama
+armário
+estante
+gaveta
+sofá
+arca
+
+cabeça
+vontade
+carne
+vez
+horas
+espada
+chuva
+vaca
